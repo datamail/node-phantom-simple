@@ -3,10 +3,10 @@
   "name": "node-phantom-simple",
   "description": "Simple and reliable bridge between Node.js and PhantomJS",
   "version": "1.2.0",
-  "homepage": "https://github.com/baudehlo/node-phantom-simple",
+  "homepage": "https://github.com/datamail/node-phantom-simple",
   "repository": {
     "type": "git",
-    "url": "git://github.com/baudehlo/node-phantom-simple.git"
+    "url": "git://github.com/datamail/node-phantom-simple.git"
   },
   "main": "node-phantom-simple.js",
   "scripts": {

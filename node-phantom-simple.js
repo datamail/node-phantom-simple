@@ -73,6 +73,7 @@ exports.create = function (callback, options) {
         }
         args = args.concat([__dirname + '/bridge.js']);
 
+        console.log(options.phantomPath, args);
         var phantom = spawn(options.phantomPath, args);
 
         // Ensure that the child process is closed when this process dies
